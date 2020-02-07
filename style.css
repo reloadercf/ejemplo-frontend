@@ -1,12 +1,27 @@
-.perfil{
-    width: 10%;
-}
 
 .header{
     background-image: url("./imagenes/header.jpg");
     background-size:cover;
     height: 50vh;
 }
-h1{
+
+.perfil{
+    position: absolute;
+}
+
+.perfil h1{
     color: #fff;
+}
+
+.perfil img{
+    width: 10%;
+}
+
+
+.article{
+    display: flex;
+}
+
+.article img{
+    width: 10%;
 }
