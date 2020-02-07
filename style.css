@@ -1,0 +1,12 @@
+.perfil{
+    width: 10%;
+}
+
+.header{
+    background-image: url("./imagenes/header.jpg");
+    background-size:cover;
+    height: 50vh;
+}
+h1{
+    color: #fff;
+}
